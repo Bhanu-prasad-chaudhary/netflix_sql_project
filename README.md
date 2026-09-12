@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](https://github.com/Bhanu-prasad-chaudhary/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
@@ -265,19 +265,23 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+## Author - Bhanu Prasad Chaudhary
+
+This project is part of my portfolio, showcasing my SQL and PostgreSQL skills as I build my career in data analytics.
+
+I am a Computer Engineering graduate with an interest in Data Analytics, Data Science, SQL, and Machine Learning. This project demonstrates my practical experience with PostgreSQL and my ability to use SQL to explore datasets and answer business-related questions.
 
 
-## Author - Zero Analyst
+## Connect With Me
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+GitHub: https://github.com/Bhanu-prasad-chaudhary/netflix_sql_project
 
-### Stay Updated and Join the Community
+LinkedIn: https://www.linkedin.com/in/bhanu-chaudhary-7a84082a4/
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+Email: [chaudharybhanu20178@gmail.com](mailto:chaudharybhanu20178@gmail.com)
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
+## Credits
 
-Thank you for your support, and I look forward to connecting with you!
+This project was created as part of my SQL and data analytics learning journey. It focuses on applying PostgreSQL and SQL techniques to analyze food delivery data and answer practical business questions.
+
+Thank you for visiting my project!
